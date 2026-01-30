@@ -1,0 +1,82 @@
+AI Engineer Syllabus
+
+1. Programming & Backend Basics
+    • Python for AI applications
+    • Async programming basics
+    • FastAPI fundamentals
+    • REST APIs and request/response lifecycle
+    • Environment management & dependency handling
+
+2. ML & NLP Essentials
+    • Machine learning refresher
+    • Neural networks basics
+    • NLP fundamentals
+    • Tokenization and embeddings
+    • Introduction to transformers
+
+3. Large Language Models
+    • LLM overview and ecosystem
+    • Hosted vs open-source models
+    • Inference parameters (temperature, top-p)
+    • Prompt structure (system, user, developer)
+    • Structured outputs (JSON)
+
+4. Prompt Engineering
+    • Prompt design patterns
+    • Few-shot and zero-shot prompting
+    • Chain-of-thought (controlled usage)
+    • Prompt evaluation basics
+    • Prompt security fundamentals
+
+5. RAG & Agent Systems
+
+5.1 Embeddings & Vector Search
+    • Embedding models
+    • Chunking strategies
+    • Similarity search
+    • Vector databases (FAISS / Chroma / Pinecone)
+
+5.2 Retrieval-Augmented Generation (RAG)
+    • RAG architecture
+    • Document ingestion pipelines
+    • Metadata filtering
+    • Context optimization
+    • RAG evaluation basics
+
+5.3 Tool Calling & Agents
+    • Function calling concepts
+    • Tool-using LLMs
+    • Single-agent workflows
+    • State and memory handling
+
+5.4 Agent Applications
+    • Multi-step reasoning
+    • Error handling in agents
+    • Simple multi-agent patterns
+    • Workflow automation use cases
+
+6. Production Deployment & Projects
+
+6.1 Fine-Tuning & Adaptation
+    • Fine-tuning overview
+    • LoRA / PEFT concepts
+    • Dataset preparation
+    • When to use fine-tuning vs RAG
+    
+7. Mlops Tools
+
+    • Git,  Docker, Github actions – CI/CD, AWS services which are required for deployment.
+    
+8. Projects
+
+   • 4 industry level projects
+   
+8. Interview Questions
+
+    • 100+ interview questions
+
+
+Industry Requirement:
+
+python handson + langchain/ langgraph(Ai)+ Deployment(git, github actions/jenkins/gitlab, docker, kuber, AWS- EKS, Ec2,s3, ECR + 2-3 industry level projects with deployment + 100+ interview questions + security of Application + Scalable Application 
+
