@@ -27,8 +27,6 @@
 # g={1,2,3,4,5}
 # h={a:10,b:20}
 
-a=5
-b=3
-c=a**b
+name="_"
 print(c)
 print(id(c))
